@@ -1,8 +1,7 @@
+EECS343 - Project 4 - Fall 2016 - Northwestern University is based heavily upon a project from Columbia University's operating systems course Homework 6
+
 1) Group repository for OS : git@github.com:mmerler/OS.git 
 
 2) At the beginning of each session, type 
 
 export SSH_AUTH_SOCK=0
-
-
-
